@@ -6,39 +6,37 @@ title = "About"
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-This is a Hugo based resume template. You can find the full source code on [GitHub](https://github.com/ojroques/hugo-researcher).
+Welcome to my website. I am Brayden Noh and attend Auburn High School. I have pursued research projects in fields of electrochemistry and power control in high school  
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+My interest is in interdisciplinary research in chemistry and automobile engineering. From 2018 to 2020, I have developed graphene dispersion supercapacitors for optimal uses in electric vehicles. Currently, I am developing a power selection algorithm for supercapacitor hybrid electric vehicles. 
 
 ## Publications
 
 In chronological order:
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. Fabrication and empirical analysis of graphene dispersion/activated carbon on conductive networks in porous graphite felt supercapacitor, Elsevier Journal of Energy Storage
+2. Design of Supercapacitor-Battery Hybrid Powertrain System with Pulse Width Modulation and Series Configuration for Light Electric Vehicles, SAE International Journal of Electrified Vehicles
+3. Supercapacitor Assisted Hybrid Electric Vehicle Powertrain and Power Selection using Fuzzy Rule-Based Algorithm, IEEE AEIT 2020
 
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
+## Awards
 
 Year | Award | Category
 -----|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
+2020 | ISEF  | Finalist
+2020 | Scholastic | Silver Medal in Fashion
+2019 | ISEF  | Grand Award of 2nd Place in Energy, Chemical
+2019 | ISEF  | Finalist
+2018 | ISEF  | Finalist
+2018 | ASEF  | Best of Fair
 
 ---
 
-Here is a blockquote
+This is my [Medium Blog](https://3rayd8n.medium.com/).
 
-> To a great mind, nothing is little
+> remoteness from reality is risky - arendt
 
-## References
+## Past Advisors
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+* Jiangfeng Zhang: Department of Automotive Engineering, Clemson University
+
